@@ -21,7 +21,13 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "react-router-dom": "^4.2.2",
+<<<<<<< HEAD
     "serve-favicon": "~2.4.5",
+=======
+    "request": "^2.83.0",
+    "serve-favicon": "~2.4.5",
+    "twitter": "^1.7.1",
+>>>>>>> fa983fdee3b00218cd75f1b9c03079a0f530d83b
     "watson-developer-cloud": "^2.41.1"
   }
 }
