@@ -20,7 +20,7 @@ class Demo extends Component {
                         WYM is able to detect 7 different tones in submitted text. You will receive immediate feedback upon submission.
                     	</Slide>
                     	<Slide
-                    		src="/img/TextAnalyze.jpg">
+                    		src="/img/SampleText.png">
                     	</Slide>
                       <Slide
                     		src="/img/logo.png"
@@ -29,7 +29,7 @@ class Demo extends Component {
                     		Feedback is provided in helpful graphs and broken down line by line.
                     	</Slide>
                       <Slide
-                    		src="/img/TextAnalyze.jpg">
+                    		src="/img/Graphs.png">
                     	</Slide>
                       <Slide
                     		src="/img/logo.png"
@@ -38,7 +38,7 @@ class Demo extends Component {
                     		Perform a tone analysis on your entire twitter feed to fine tune your social media presence.
                     	</Slide>
                       <Slide
-                    		src="/img/TextAnalyze.jpg">
+                    		src="/img/Twitter.png">
                     	</Slide>
 
                     </Slider>
