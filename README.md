@@ -55,20 +55,20 @@ The following 7 tones can be detected in submitted text:
 
 Group Trello Board:
 
-![Trello Board](/public/img/Trello.png)
+![Trello Board](/client/public/img/Trello.png)
 
-![Trello Board](/public/img/TrelloBoard.png)
+![Trello Board](/client/public/img/TrelloBoard.png)
 
 
 Wireframes:
-
+![alt text](/client/public/img/whiteboard1.JPG)
+![alt text](/client/public/img/whiteboard2.JPG)
+![alt text](/client/public/img/whiteboard3.JPG)
 
 Component Flow:
 
-![Trello Board](/public/img/componentFlow.png)
-![alt text](public/img/whiteboard1.JPG)
-![alt text](public/img/whiteboard2.JPG)
-![alt text](public/img/whiteboard3.JPG)
+![Component Flow](/client/public/img/componentFlow.png)
+
 
 #### Day 2 & 3
 
