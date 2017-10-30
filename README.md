@@ -1,10 +1,10 @@
 # WYM - Watson Tone Analyzer
 
-Link to app:
+Link to app: *Not yet hosted on Heroku*
 
 ## About
 
-WYM (What You Mean) utilizes the IBM Watson Tone Analyzer API (more info: >>>insert link>>>) to analyze tone of a user's submitted text. WYM is able to detect a range of 7 different tones and provide the user with tone feedback of the text that was provided.
+WYM (What You Mean) utilizes the [IBM Watson Tone Analyzer API](https://www.ibm.com/watson/developer-2/) to analyze tone of a user's submitted text. WYM is able to detect a range of 7 different tones and provide the user with tone feedback of the text that was provided.
 
 The following 7 tones can be detected in submitted text:
 * Anger
@@ -39,7 +39,7 @@ The following 7 tones can be detected in submitted text:
 | materialize | Design Framework|
 
 
-### Planning
+### Planning & Process
 
 #### Weekend Before Project Weekend
 
@@ -53,7 +53,19 @@ The following 7 tones can be detected in submitted text:
 * Drew out wireframes & component structure
 * Assigned roles to each team member
 
+Group Trello Board:
+
+![Trello Board](/public/img/Trello.png)
+
+![Trello Board](/public/img/TrelloBoard.png)
+
+
 Wireframes:
+
+
+Component Flow:
+
+![Trello Board](/public/img/componentFlow.png)
 ![alt text](public/img/whiteboard1.JPG)
 ![alt text](public/img/whiteboard2.JPG)
 ![alt text](public/img/whiteboard3.JPG)
@@ -80,5 +92,6 @@ Wireframes:
 2. Trend analysis that enables users to view trends in their written tone over time.
 3. Feedback for users in the form of suggestions based on the tone response for their text.
 4. Ability to upload text in csv format.
-5. Tags for doc types (i.e. cover letter, resume, etc.)
-6. Improve styling
+5. Tags for doc types (i.e. cover letter, resume, etc.).
+6. Improve styling.
+7. Fixing twitter feature.
