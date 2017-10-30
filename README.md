@@ -66,8 +66,9 @@ Wireframes:
 Component Flow:
 
 ![Trello Board](/public/img/componentFlow.png)
-
-
+![alt text](public/img/whiteboard1.JPG)
+![alt text](public/img/whiteboard2.JPG)
+![alt text](public/img/whiteboard3.JPG)
 
 #### Day 2 & 3
 
