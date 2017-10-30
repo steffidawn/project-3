@@ -61,9 +61,9 @@ Group Trello Board:
 
 
 Wireframes:
-![alt text](/client/public/img/whiteboard1.JPG)
-![alt text](/client/public/img/whiteboard2.JPG)
-![alt text](/client/public/img/whiteboard3.JPG)
+![alt text](/public/img/whiteboard1.JPG)
+![alt text](/public/img/whiteboard2.JPG)
+![alt text](/public/img/whiteboard3.JPG)
 
 Component Flow:
 
