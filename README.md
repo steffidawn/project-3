@@ -55,9 +55,9 @@ The following 7 tones can be detected in submitted text:
 
 Group Trello Board:
 
-![Trello Board](/public/img/Trello.png)
+![Trello Board](/client/public/img/Trello.png)
 
-![Trello Board](/public/img/TrelloBoard.png)
+![Trello Board](/client/public/img/TrelloBoard.png)
 
 
 Wireframes:
@@ -65,7 +65,7 @@ Wireframes:
 
 Component Flow:
 
-![Trello Board](/public/img/componentFlow.png)
+![Component Flow](/public/img/componentFlow.png)
 
 
 
