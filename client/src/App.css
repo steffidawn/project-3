@@ -46,10 +46,10 @@ li:hover {
 
 .card {
     background-color: #0b132b;
-    width: 250px;
+    /* width: 250px; */
     position: -webkit-sticky;
-    position: sticky;
-    top: 0;
+    /* position: sticky;
+    top: 0; */
 }
 
 .inline {
@@ -111,6 +111,7 @@ li:hover {
     max-height: 300px;
     min-height: 300px;
     max-width: 400px;
+    height: 550px;
     background-color: #0b132b;
     color: white;
 }
@@ -154,6 +155,7 @@ li:hover {
     .sticky {
         position: fixed;
         top: 65px;
+        width: 30%;
     }
     .demo {
         margin: 50px 0px;

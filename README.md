@@ -61,12 +61,18 @@ Group Trello Board:
 
 
 Wireframes:
-
+![alt text](/public/img/whiteboard1.JPG)
+![alt text](/public/img/whiteboard2.JPG)
+![alt text](/public/img/whiteboard3.JPG)
 
 Component Flow:
 
+<<<<<<< HEAD
 ![Component Flow](/public/img/componentFlow.png)
 
+=======
+![Component Flow](/client/public/img/componentFlow.png)
+>>>>>>> b6cd7ce5acc2ef00efc6e69e940a214ad8c62bb6
 
 
 #### Day 2 & 3
